@@ -1,21 +1,36 @@
----
-description: Plugin commands.
----
-
 # Commands
 
-## Home management:
-### /home [name] (or just /home)
+### Home management:
+
+#### 
+
+#### /home \[name\] \(or just /home\)
+
 Teleport to a home.
-### /homes
+
+#### 
+
+#### /homes
+
 List your homes.
-### /sethome [name] (or just /sethome)
+
+#### 
+
+#### /sethome \[name\] \(or just /sethome\)
+
 Set a home.
-### /delhome [home] (or just /delhome)
+
+#### 
+
+#### /delhome \[home\] \(or just /delhome\)
+
 Delete a home.
 
-To-do:
-/clearhomes - Delete them all.
+To-do: /clearhomes - Delete them all.
 
-### Max homes
+#### 
+
+#### Max homes
+
 Currently at 10 but this will be moved to `config.yml`.
+

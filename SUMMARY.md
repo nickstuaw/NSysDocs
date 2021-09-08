@@ -6,3 +6,7 @@
 
 * [Saved information](moderation/saved-information.md)
 
+## Commands
+
+* [Commands](commands/commands.md)
+
