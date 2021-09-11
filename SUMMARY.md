@@ -8,5 +8,8 @@
 
 ## Commands
 
-* [Commands](commands/commands.md)
+---
+
+* [Warps](warps.md)
+* [Homes](homes.md)
 
